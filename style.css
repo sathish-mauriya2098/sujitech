@@ -1,0 +1,47 @@
+.tags,.tags2{
+    margin: 5px 20px 10px 20px;
+    border-radius: 8px;
+}
+.tag{
+    color: black;
+    text-align: center;
+}
+.widget-title{
+    color: white;
+    margin-top: 0px;
+   background-color: #FF1493;
+}
+.widget-title1{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-top: 0px;
+   background-color:burlywood;
+    }
+.widget-title1:hover{
+    color: blue;
+    text-decoration: underline;
+    font-size: 15px;
+    margin-top: 0px;
+   background-color:burlywood;
+    }
+.img-contain{
+    border-radius: 10px;
+    
+}
+.automate{
+    margin: 5px 20px 10px 20px;
+    border-radius: 8px;
+}
+.automate img:hover{
+   width: 380px;
+    
+}
+button[type=button]{
+            padding: 15px 40px;
+            border-radius: 4px;
+            background-color: darkorange;
+            border: none;
+            font-size: 15px;
+            color: white;
+        } 
